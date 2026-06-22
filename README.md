@@ -6,7 +6,7 @@ Atualmente estou aprofundando meus estudos em **Django** e **Flask** para consol
 
 ---
 
-#### 🛠️ Stack & ferramentas
+#### Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
@@ -20,25 +20,6 @@ Atualmente estou aprofundando meus estudos em **Django** e **Flask** para consol
 - **Dados:** SQL, análise e modelagem de dados
 - **E-commerce & integrações:** Oracle, ActiveCampaign, APIs REST, Webhooks
 - **Ferramentas:** Git/GitHub, Linux(hobby), Postman
-
----
-
-#### 💼 O que eu faço hoje
-
-Atuo com suporte técnico avançado (N2/N3) na Shoppub Plataforma, o que na prática significa:
-
-- Diagnóstico e resolução de problemas em integrações entre sistemas (ERP, CRM, plataformas de venda)
-- Análise de dados e SQL para investigar comportamentos e inconsistências
-- Automação de processos repetitivos com Python
-- Comunicação técnica com times internos e clientes para resolver problemas complexos
-
-Essa vivência me deu uma visão prática de como sistemas de e-commerce funcionam por trás dos panos — algo que estou aplicando agora no desenvolvimento backend.
-
----
-
-#### 📌 Projetos em destaque
-
-> *(em atualização — em breve com links para os principais repositórios)*
 
 ---
 
