@@ -1,8 +1,8 @@
 ### Olá, sou o Igor 👋
 
-Desenvolvedor Python em transição de carreira, vindo do suporte técnico N2/N3 em e-commerce para o desenvolvimento backend. Hoje atuo na **Shoppub**, onde trabalho diariamente com integrações, ERPs/CRMs e automações em Python — experiência que me deu uma base sólida em análise de dados, integrações de grandes sistemas reais e o dia a dia de dezenas de operações robustas.
+Atualmente trabalho como suporte técnico em uma plataforma de e-commerce, Shoppub.
 
-Atualmente estou aprofundando meus estudos em **Django** e **Flask** para consolidar minha transição para desenvolvimento backend.
+Atualmente estou aprofundando meus estudos em **Django** e **Flask**..
 
 ---
 
